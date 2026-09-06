@@ -12,3 +12,7 @@ A Python programming hobbyist and avid math lover. See my projects below.
 ## Powershell
 
 - [Indent](https://jonathandung.github.io/Indent) - bundles an advanced function and a simple filter to indent text configurably.
+
+## Templates
+
+- [.github](https://github.com/jonathandung/.github) - Template for [.github](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#about-default-community-health-files) repositories to hold default community health files for repositories made by a user or organization.
