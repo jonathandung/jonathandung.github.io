@@ -1,6 +1,6 @@
 # Jonathan Dung
 
-See my projects below.
+A Python programming hobbyist and avid math lover. See my projects below.
 
 ## Python
 
